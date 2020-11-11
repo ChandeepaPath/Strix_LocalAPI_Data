@@ -1,0 +1,105 @@
+{
+    "Project":[
+    {
+        "id": "P001",
+        "PName": "Project A",
+        "Pdesc": "This is the desciption of Project A",
+        "link": "/ProjectIssues"
+    },
+    {
+        "id": "P002",
+        "PName": "Project B",
+        "Pdesc": "This is the desciption of Project B",
+        "link": "/"
+    },
+    {
+        "id": "P003",
+        "PName": "Project C",
+        "Pdesc": "This is the desciption of Project C",
+        "link": "/"
+    },
+    {
+        "id": "P004",
+        "PName": "Project D",
+        "Pdesc": "This is the desciption of Project D",
+        "link": "/"
+    }
+    
+    ],
+    "TotalHrs":[
+        {
+          
+            "totalHours": "150h",
+            "Devhrs": "87h",
+            "QAhrs": "63h"
+        }
+    ],
+    "TotalEmp":[
+        {
+            "Totalprojects": 7,
+            "TotalDev" :5,
+            "TotalQA" : 5
+        }
+    ],
+    "Issues":[
+        {
+            "toalIssues": 16,
+            "InProgress": 6,
+            "solved":10
+        }
+      
+    ],
+    "IssuesOpened_Closed":[
+        {
+            "NoIOpen": 3,
+            "NoIClose":2
+        },
+        {
+            "NoIOpen": 2,
+            "NoIClose":2
+        },
+        {
+            "NoIOpen": 5,
+            "NoIClose":3
+        },
+        {
+            "NoIOpen":1,
+            "NoIClose":2
+        },
+        {
+            "NoIOpen": 5,
+            "NoIClose":4
+        }
+    ],
+    "NoIssuesProj":[
+        {
+            "pID": "P001",
+            "Pname": "Project A",
+            "NoIssues": 5
+        },
+        {
+            "pID": "P002",
+            "Pname": "Project B",
+            "NoIssues": 7
+        },
+        {
+            "pID": "P003",
+        : "Project C",
+            "NoIssues": 3
+        },
+        {
+            "pID": "P004",
+            "Pname": "Project D",
+            "NoIssues": 1
+        },
+        {
+            "pID": "P005",
+            "Pname": "Project E",
+            "NoIssues": 3
+        }
+        
+    ],
+    "ActiveHoursWeekDays":[20, 42, 23, 31,34]
+       
+    
+  }
